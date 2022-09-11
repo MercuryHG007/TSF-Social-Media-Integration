@@ -39,16 +39,3 @@ export const UserLogOut = () => auth.signOut()
 //         console.log((err))
 //     })
 // }
-
-// export const signInWithGithub = () => {
-//     signInWithPopup(auth, GithubProvider)
-//     .then((result) => {
-//         console.log(result)
-//     })
-//     .catch((err) => {
-//         console.log((err))
-//     })
-// }
-
-
-
